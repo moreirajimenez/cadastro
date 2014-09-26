@@ -1,7 +1,7 @@
 Cadastro
 ========
 
-Exercício 9:
+Exercício 9:
 
 Neste exercício vamos, experimentar a passagem de valores. Não esqueça de fazer o fork do projeto antes de clonar.
 
